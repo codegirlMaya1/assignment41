@@ -1,0 +1,16 @@
+.character-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.character {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.character img {
+  max-width: 100px;
+  height: auto;
+}
